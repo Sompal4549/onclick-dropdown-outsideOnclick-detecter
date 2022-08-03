@@ -48,7 +48,7 @@ const Onclick = () => {
         {isActive && (
           <div style={dropdown} className="dropDownContent">
             <a href="https://www.google.com">Home</a>
-            <a href="https://www.ishasadhguru.com">Website</a>
+            <a href="https:/www.google.com">Website</a>
             <a href="https://www.google.com">Google</a>
           </div>
         )}
